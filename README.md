@@ -1,15 +1,15 @@
 if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635 then
     game.StarterGui:SetCore("SendNotification", {
       Icon = "rbxassetid://9152775759";
-          Title = "PROXO", 
-      Text = "Welcome PROXO!"
+          Title = "Vsh Hub", 
+      Text = "Welcome VsH Hub!"
   })
   
   wait(1)
   
   game.StarterGui:SetCore("SendNotification", {
       Icon = "rbxassetid://9152775759";
-      Title = "PROXO    ", 
+      Title = "vsH Hub    ", 
       Text = "Loading Ui..."
   })
   
